@@ -1,1 +1,1 @@
-"This is my first assignment" 
+"Thing I learned about Git:\n- How to initialize a repository\n- How to stage and commit changes, also don't close out of the terminal before taking a screenshot for your assignment" 
